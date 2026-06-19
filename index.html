@@ -361,7 +361,7 @@ footer{background:var(--gd);color:#d1fae5;padding:2rem 5%}
 </footer>
 
 <script>
-var GSHEET = 'YOUR_APPS_SCRIPT_URL_HERE';
+var GSHEET = 'https://script.google.com/macros/s/AKfycbxH5enuJ9Py90MhnIvhwXwbvRi2s4_xXFVYNrc_cvBexcNpBajufs-gsypvAN7OS25q/exec';
 
 function navToggle() {
   var m = document.getElementById('mob');
@@ -407,7 +407,7 @@ function sendForm() {
     timestamp: new Date().toLocaleString('en-IN', {timeZone: 'Asia/Kolkata'})
   });
 
-  if (GSHEET === 'YOUR_APPS_SCRIPT_URL_HERE') {
+  if (GSHEET === 'https://script.google.com/macros/s/AKfycbxH5enuJ9Py90MhnIvhwXwbvRi2s4_xXFVYNrc_cvBexcNpBajufs-gsypvAN7OS25q/exec') {
     setTimeout(function() {
       setMsg('Message sent! We will reply within 24 hours.', 'ok');
       resetForm();
