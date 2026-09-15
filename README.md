@@ -1,22 +1,12 @@
-# Yuvan Digital Marketing Website
+# Yuvan Digital Marketing
 
-Premium responsive static website built for Yuvan Digital Marketing.
+A from-scratch React-based marketing portfolio experience for Yuvan Digital Marketing.
 
-## Included
-- Home, Services, Results, Industries, Portfolio, About, Blog, Free Audit, Contact
-- Responsive mobile-first layout
-- Premium dark agency visual system
-- WhatsApp conversion flow using the supplied WhatsApp number
-- Free audit form with preferred date/time
-- SEO-ready metadata, sitemap and robots.txt
-- Real supplied logo, founder photo, portfolio creatives and certificates
+## Conversion flow
+The enquiry form validates the visitor's details and opens WhatsApp with a pre-filled enquiry message. No backend or visitor data is stored by the site.
 
-## Launch
-Upload the entire folder to a static host (GitHub Pages, Netlify, Vercel, Cloudflare Pages, etc.) or use the HTML/CSS/JS as the front-end inside WordPress.
+## Pages
+Home · Services · Work · About · Contact
 
-## Before launch
-- Verify domain ownership/DNS for yuvandigitalmarketing.in
-- Replace starter legal pages with final legal wording
-- Connect GA4 and Google Search Console
-- Test WhatsApp, forms, social links and every client URL
-- Add final client/case-study details where available
+## Visual direction
+Dark, high-contrast, interactive, motion-led marketing portfolio with responsive mobile-first layouts.
